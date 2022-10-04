@@ -1,9 +1,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMAstrider)](https://github.com/TMAstrider/github-readme-stats)
 
-### Hi there 👋
-# I am a undergraduate currently majoring in Mechatronics Engineering.
-# The Readme file is created by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+## Hi there 👋
+### I am a undergraduate currently majoring in Mechatronics Engineering.
+### The Readme file is created by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TMAstrider/TMAstrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
