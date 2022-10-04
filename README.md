@@ -1,5 +1,6 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMAstrider)](https://github.com/TMAstrider/github-readme-stats)
+[![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=TMAstrider&show_icons=true&theme=tokyonight)](https://github.com/TMAstrider/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TMAstrider&layout=compact&hide=javascript)](https://github.com/TMAstrider/github-readme-stats)
 
 ## Hi there 👋
 ### I am a undergraduate currently majoring in Mechatronics Engineering.
