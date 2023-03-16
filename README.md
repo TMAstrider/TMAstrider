@@ -4,8 +4,6 @@
 
 ## Hi there 👋
 - I'm currently majoring in Mechatronics Engineering.
-- 🔭 I’m currently learning CS 61C Summer 2020.
-- ⚡ Fun fact:  ⚡⚡⚡⚡
 - The Readme file is created by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TMAstrider/TMAstrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
